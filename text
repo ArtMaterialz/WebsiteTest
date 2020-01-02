@@ -1,0 +1,21 @@
+  background-image: url(https://images.unsplash.com/photo-1530191601183-4de2969575ad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+
+   background: linear-gradient(
+        rgba(0,0,0,0.4),
+        rgba(167,67,67,0.4)
+          background-image: linear-gradient(
+        #f8b195,
+        #f67280,
+        #c06c84,
+        #6c5b7b
+    
+    );
+     <img src="/image/LogoColoredTransparent.png">
+     <div class="column">
+                <img class="demo cursor" src="" onclick="currentSlide()" alt="">
+            </div>
+
+             <div class="myslides">
+                        <div class="numbertext"></div>
+                        <img src="">
+            </div>
